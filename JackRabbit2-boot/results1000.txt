@@ -1,0 +1,160 @@
+MySql***********************************************
+Created 1000 nodes in 917ms
+Queryed properties: time: 67  nodes 1001
+Queryed (Contains) properties: time: 18  nodes 1001
+Queryed (And) properties: time: 8  nodes 0
+Queryed (ContainsInt) properties: time: 1  nodes 0
+Queryed (performQueryGreaterThan0) properties: time: 9  nodes 1000
+Query (Or) properties: time: 4  nodes 1001
+Queryed (OrSub) properties: time: 3  nodes 1001
+updated 1000 nodes in 607ms
+read 1000 nodes in 8ms
+Uploaded 100 files in 234ms
+Moved 1000 nodes in 10ms
+Copied 1000 nodes in 411ms
+Deleted 1000 nodes in 1259ms
+Deleted 1000 nodes in 968ms
+MySql***********************************************
+Created 1000 nodes in 497ms
+Queryed properties: time: 14  nodes 1001
+Queryed (Contains) properties: time: 3  nodes 1001
+Queryed (And) properties: time: 1  nodes 0
+Queryed (ContainsInt) properties: time: 1  nodes 0
+Queryed (performQueryGreaterThan0) properties: time: 3  nodes 1000
+Query (Or) properties: time: 3  nodes 1001
+Queryed (OrSub) properties: time: 2  nodes 1001
+updated 1000 nodes in 427ms
+read 1000 nodes in 5ms
+Uploaded 100 files in 196ms
+Moved 1000 nodes in 7ms
+Copied 1000 nodes in 303ms
+Deleted 1000 nodes in 1069ms
+Deleted 1000 nodes in 862ms
+MySql***********************************************
+Created 1000 nodes in 420ms
+Queryed properties: time: 14  nodes 1001
+Queryed (Contains) properties: time: 2  nodes 1001
+Queryed (And) properties: time: 1  nodes 0
+Queryed (ContainsInt) properties: time: 1  nodes 0
+Queryed (performQueryGreaterThan0) properties: time: 2  nodes 1000
+Query (Or) properties: time: 2  nodes 1001
+Queryed (OrSub) properties: time: 2  nodes 1001
+updated 1000 nodes in 433ms
+read 1000 nodes in 4ms
+Uploaded 100 files in 216ms
+Moved 1000 nodes in 6ms
+Copied 1000 nodes in 304ms
+Deleted 1000 nodes in 987ms
+Deleted 1000 nodes in 849ms
+MySql***********************************************
+Created 1000 nodes in 352ms
+Queryed properties: time: 9  nodes 1001
+Queryed (Contains) properties: time: 1  nodes 1001
+Queryed (And) properties: time: 1  nodes 0
+Queryed (ContainsInt) properties: time: 0  nodes 0
+Queryed (performQueryGreaterThan0) properties: time: 2  nodes 1000
+Query (Or) properties: time: 2  nodes 1001
+Queryed (OrSub) properties: time: 2  nodes 1001
+updated 1000 nodes in 373ms
+read 1000 nodes in 4ms
+Uploaded 100 files in 197ms
+Moved 1000 nodes in 5ms
+Copied 1000 nodes in 281ms
+Deleted 1000 nodes in 993ms
+Deleted 1000 nodes in 839ms
+MySql***********************************************
+Created 1000 nodes in 346ms
+Queryed properties: time: 12  nodes 1001
+Queryed (Contains) properties: time: 1  nodes 1001
+Queryed (And) properties: time: 1  nodes 0
+Queryed (ContainsInt) properties: time: 0  nodes 0
+Queryed (performQueryGreaterThan0) properties: time: 1  nodes 1000
+Query (Or) properties: time: 1  nodes 1001
+Queryed (OrSub) properties: time: 2  nodes 1001
+updated 1000 nodes in 354ms
+read 1000 nodes in 4ms
+Uploaded 100 files in 165ms
+Moved 1000 nodes in 6ms
+Copied 1000 nodes in 271ms
+Deleted 1000 nodes in 999ms
+Deleted 1000 nodes in 833ms
+MySql***********************************************
+Created 1000 nodes in 356ms
+Queryed properties: time: 10  nodes 1001
+Queryed (Contains) properties: time: 2  nodes 1001
+Queryed (And) properties: time: 1  nodes 0
+Queryed (ContainsInt) properties: time: 1  nodes 0
+Queryed (performQueryGreaterThan0) properties: time: 2  nodes 1000
+Query (Or) properties: time: 2  nodes 1001
+Queryed (OrSub) properties: time: 1  nodes 1001
+updated 1000 nodes in 362ms
+read 1000 nodes in 4ms
+Uploaded 100 files in 183ms
+Moved 1000 nodes in 5ms
+Copied 1000 nodes in 302ms
+Deleted 1000 nodes in 973ms
+Deleted 1000 nodes in 899ms
+MySql***********************************************
+Created 1000 nodes in 380ms
+Queryed properties: time: 11  nodes 1001
+Queryed (Contains) properties: time: 1  nodes 1001
+Queryed (And) properties: time: 1  nodes 0
+Queryed (ContainsInt) properties: time: 0  nodes 0
+Queryed (performQueryGreaterThan0) properties: time: 1  nodes 1000
+Query (Or) properties: time: 1  nodes 1001
+Queryed (OrSub) properties: time: 1  nodes 1001
+updated 1000 nodes in 367ms
+read 1000 nodes in 3ms
+Uploaded 100 files in 164ms
+Moved 1000 nodes in 5ms
+Copied 1000 nodes in 278ms
+Deleted 1000 nodes in 989ms
+Deleted 1000 nodes in 893ms
+MySql***********************************************
+Created 1000 nodes in 341ms
+Queryed properties: time: 10  nodes 1001
+Queryed (Contains) properties: time: 2  nodes 1001
+Queryed (And) properties: time: 1  nodes 0
+Queryed (ContainsInt) properties: time: 0  nodes 0
+Queryed (performQueryGreaterThan0) properties: time: 2  nodes 1000
+Query (Or) properties: time: 2  nodes 1001
+Queryed (OrSub) properties: time: 2  nodes 1001
+updated 1000 nodes in 372ms
+read 1000 nodes in 4ms
+Uploaded 100 files in 165ms
+Moved 1000 nodes in 10ms
+Copied 1000 nodes in 340ms
+Deleted 1000 nodes in 1127ms
+Deleted 1000 nodes in 892ms
+MySql***********************************************
+Created 1000 nodes in 324ms
+Queryed properties: time: 12  nodes 1001
+Queryed (Contains) properties: time: 2  nodes 1001
+Queryed (And) properties: time: 1  nodes 0
+Queryed (ContainsInt) properties: time: 1  nodes 0
+Queryed (performQueryGreaterThan0) properties: time: 1  nodes 1000
+Query (Or) properties: time: 1  nodes 1001
+Queryed (OrSub) properties: time: 1  nodes 1001
+updated 1000 nodes in 370ms
+read 1000 nodes in 4ms
+Uploaded 100 files in 164ms
+Moved 1000 nodes in 44ms
+Copied 1000 nodes in 281ms
+Deleted 1000 nodes in 1018ms
+Deleted 1000 nodes in 912ms
+MySql***********************************************
+Created 1000 nodes in 315ms
+Queryed properties: time: 11  nodes 1001
+Queryed (Contains) properties: time: 1  nodes 1001
+Queryed (And) properties: time: 1  nodes 0
+Queryed (ContainsInt) properties: time: 0  nodes 0
+Queryed (performQueryGreaterThan0) properties: time: 1  nodes 1000
+Query (Or) properties: time: 1  nodes 1001
+Queryed (OrSub) properties: time: 2  nodes 1001
+updated 1000 nodes in 362ms
+read 1000 nodes in 3ms
+Uploaded 100 files in 165ms
+Moved 1000 nodes in 6ms
+Copied 1000 nodes in 267ms
+Deleted 1000 nodes in 959ms
+Deleted 1000 nodes in 853ms
