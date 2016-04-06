@@ -15,6 +15,7 @@ The Jackrabbit2 and Oak application are can be packaged using:
 
 mvn package
 
+FYI - These are spring boot applications.
 *************************************************************
 Jackrabbit 2 directions:
 
@@ -45,5 +46,5 @@ postgres.run=true
 Start it by the following:
 java -Xms1024m -Xmx2048m -Doak.queryLimitInMemory=500000 -Doak.queryLimitReads=100000 -Dupdate.limit=250000 -Doak.fastQuerySize=true -jar Oakboot-0.0.1-SNAPSHOT.jar
 
-A lot of todos but its not really a production type app, just something that allows us to gauge the performance of Jackrabbit2 and Oak
+A lot of todos but its not really a production type app that may or maynot evolve, just something that allows us to gauge the performance of Jackrabbit2 and Oak
 
