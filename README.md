@@ -15,7 +15,7 @@ mvn package
 
 To actually run the application you need to do some configuration in the repository.xml. If you install a mysql database locally - "//localhost:3307/test" you really do not have to do nothing.
 
-To run the application:
+To run the application using jackrabbit 2:
 
 java -jar number of nodes to create, number of files to upload, number of runs
 
