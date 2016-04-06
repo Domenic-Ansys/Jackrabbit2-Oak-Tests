@@ -27,4 +27,23 @@ A lot of todos but its not really a production type app, just something that all
 
 I have also included results for creation of 1000 and 100000 nodes in results1000.txt and results100000.txt.
 
-Oak directions to come....
+Oak directions:
+
+In order to run the tests in Oak there is some configuration that needs to be done.  In the oak.properties file:
+
+Number of runs you want
+run.number=10
+numbe rof times you want the sample.txt to be uploaded
+fileupload.number=100
+number of nodes you want to create
+node.number=10000
+3 persistence manager options (mysql, mongo, or postgress).  All use a filestore relative to the directory you run in
+mysql.run=true
+mongo.run=true
+postgres.run=true
+
+Start it by the following:
+java -Xms1024m -Xmx2048m -Doak.queryLimitInMemory=500000 -Doak.queryLimitReads=100000 -Dupdate.limit=250000 -Doak.fastQuerySize=true -jar Oakboot-0.0.1-SNAPSHOT.jar
+
+
+
