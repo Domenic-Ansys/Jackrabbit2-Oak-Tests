@@ -15,7 +15,8 @@ mvn package
 
 To actually run the application you need to do some configuration in the repository.xml. If you install a mysql database locally - "//localhost:3307/test" you really do not have to do nothing.
 
-To run the application using jackrabbit 2:
+*************************************************************
+Jackrabbit 2 directions:
 
 java -jar number of nodes to create, number of files to upload, number of runs
 
@@ -25,8 +26,10 @@ FYI sample.txt is the file that gets uploaded.
 
 A lot of todos but its not really a production type app, just something that allows us to gauge the performance of Jackrabbit2
 
+Als
 I have also included results for creation of 1000 and 100000 nodes in results1000.txt and results100000.txt.
 
+*************************************************************
 Oak directions:
 
 In order to run the tests in Oak there is some configuration that needs to be done.  In the oak.properties file:
